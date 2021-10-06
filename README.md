@@ -1,11 +1,5 @@
 Ruchit Patel
 
-rpatel18
-
-Spring 2021
-
-Assignment 3: Sorting: Putting your affairs in order
-
 ---------------------
 DESCRIPTION
 
@@ -108,3 +102,4 @@ With make:
 
 6. In order to clean up (remove object and executable files), run “make clean” in the terminal.
 
+This is a part of a lab designed by Prof. Darrell Long

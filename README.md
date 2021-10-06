@@ -3,7 +3,7 @@ Ruchit Patel
 ---------------------
 DESCRIPTION
 
-- In this lab, three sorting algorithms are implemented: Bubble sort, Shell sort, and Quick sort.
+- Three sorting algorithms are implemented: Bubble sort, Shell sort, and Quick sort.
 - Bubble sort and Shell sort directly work on an array. 
 - Quick sort is implemented using two abstract data types: a stack and a queue.
 - Arguments:    -a (run all three sorting algorithms),
